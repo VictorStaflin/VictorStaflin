@@ -2,12 +2,8 @@
 
 Enterprise Security Architect • Founder • AI Builder
 
----
-
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 
----
 
 ## About
 
@@ -19,7 +15,6 @@ Currently:
 - Solution Architect at Sandvik (Security / Sentinel / Azure)
 - Founder & CEO of Silverpine Solutions AB
 
----
 
 ## Focus Areas
 
@@ -28,7 +23,6 @@ Currently:
 - AI Safety & Governance
 - Enterprise SaaS Platforms
 
----
 
 ## Silverpine Solutions AB
 
@@ -38,8 +32,6 @@ Building:
 - Cloud-native applications
 - Cybersecurity solutions
 - AI governance frameworks
-
----
 
 ## Community
 
